@@ -52,8 +52,8 @@
   
   .home-image svg {
     width: 100% !important;
-    /*margin-left:10px;   Ajuste lateral */ 
-    /*width: 500px !important; Ajuste imagem */
+    margin-left:10px;  /* Ajuste lateral */ 
+    width: 500px !important; /*Ajuste imagem */
   }
   
   @media only screen and (max-width: 768px) {
